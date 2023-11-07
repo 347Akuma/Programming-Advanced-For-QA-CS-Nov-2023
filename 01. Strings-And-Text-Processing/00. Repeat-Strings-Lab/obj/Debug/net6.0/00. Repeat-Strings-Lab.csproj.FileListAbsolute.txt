@@ -1,0 +1,14 @@
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\01. Strings-And-Text-Processing\00. Repeat-Strings-Lab\bin\Debug\net6.0\00. Repeat-Strings-Lab.exe
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\01. Strings-And-Text-Processing\00. Repeat-Strings-Lab\bin\Debug\net6.0\00. Repeat-Strings-Lab.deps.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\01. Strings-And-Text-Processing\00. Repeat-Strings-Lab\bin\Debug\net6.0\00. Repeat-Strings-Lab.runtimeconfig.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\01. Strings-And-Text-Processing\00. Repeat-Strings-Lab\bin\Debug\net6.0\00. Repeat-Strings-Lab.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\01. Strings-And-Text-Processing\00. Repeat-Strings-Lab\bin\Debug\net6.0\00. Repeat-Strings-Lab.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\01. Strings-And-Text-Processing\00. Repeat-Strings-Lab\obj\Debug\net6.0\00. Repeat-Strings-Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\01. Strings-And-Text-Processing\00. Repeat-Strings-Lab\obj\Debug\net6.0\00. Repeat-Strings-Lab.AssemblyInfoInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\01. Strings-And-Text-Processing\00. Repeat-Strings-Lab\obj\Debug\net6.0\00. Repeat-Strings-Lab.AssemblyInfo.cs
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\01. Strings-And-Text-Processing\00. Repeat-Strings-Lab\obj\Debug\net6.0\00. Repeat-Strings-Lab.csproj.CoreCompileInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\01. Strings-And-Text-Processing\00. Repeat-Strings-Lab\obj\Debug\net6.0\00. Repeat-Strings-Lab.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\01. Strings-And-Text-Processing\00. Repeat-Strings-Lab\obj\Debug\net6.0\refint\00. Repeat-Strings-Lab.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\01. Strings-And-Text-Processing\00. Repeat-Strings-Lab\obj\Debug\net6.0\00. Repeat-Strings-Lab.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\01. Strings-And-Text-Processing\00. Repeat-Strings-Lab\obj\Debug\net6.0\00. Repeat-Strings-Lab.genruntimeconfig.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\01. Strings-And-Text-Processing\00. Repeat-Strings-Lab\obj\Debug\net6.0\ref\00. Repeat-Strings-Lab.dll

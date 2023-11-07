@@ -1,0 +1,14 @@
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\01. Strings-And-Text-Processing\00. Substring-Lab\bin\Debug\net6.0\00. Substring-Lab.exe
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\01. Strings-And-Text-Processing\00. Substring-Lab\bin\Debug\net6.0\00. Substring-Lab.deps.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\01. Strings-And-Text-Processing\00. Substring-Lab\bin\Debug\net6.0\00. Substring-Lab.runtimeconfig.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\01. Strings-And-Text-Processing\00. Substring-Lab\bin\Debug\net6.0\00. Substring-Lab.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\01. Strings-And-Text-Processing\00. Substring-Lab\bin\Debug\net6.0\00. Substring-Lab.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\01. Strings-And-Text-Processing\00. Substring-Lab\obj\Debug\net6.0\00. Substring-Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\01. Strings-And-Text-Processing\00. Substring-Lab\obj\Debug\net6.0\00. Substring-Lab.AssemblyInfoInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\01. Strings-And-Text-Processing\00. Substring-Lab\obj\Debug\net6.0\00. Substring-Lab.AssemblyInfo.cs
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\01. Strings-And-Text-Processing\00. Substring-Lab\obj\Debug\net6.0\00. Substring-Lab.csproj.CoreCompileInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\01. Strings-And-Text-Processing\00. Substring-Lab\obj\Debug\net6.0\00. Substring-Lab.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\01. Strings-And-Text-Processing\00. Substring-Lab\obj\Debug\net6.0\refint\00. Substring-Lab.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\01. Strings-And-Text-Processing\00. Substring-Lab\obj\Debug\net6.0\00. Substring-Lab.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\01. Strings-And-Text-Processing\00. Substring-Lab\obj\Debug\net6.0\00. Substring-Lab.genruntimeconfig.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\01. Strings-And-Text-Processing\00. Substring-Lab\obj\Debug\net6.0\ref\00. Substring-Lab.dll
