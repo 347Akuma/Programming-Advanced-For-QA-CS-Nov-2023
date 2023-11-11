@@ -1,0 +1,14 @@
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\02. Regular-Expressions\03. Match-Dates\bin\Debug\net6.0\03. Match-Dates.exe
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\02. Regular-Expressions\03. Match-Dates\bin\Debug\net6.0\03. Match-Dates.deps.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\02. Regular-Expressions\03. Match-Dates\bin\Debug\net6.0\03. Match-Dates.runtimeconfig.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\02. Regular-Expressions\03. Match-Dates\bin\Debug\net6.0\03. Match-Dates.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\02. Regular-Expressions\03. Match-Dates\bin\Debug\net6.0\03. Match-Dates.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\02. Regular-Expressions\03. Match-Dates\obj\Debug\net6.0\03. Match-Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\02. Regular-Expressions\03. Match-Dates\obj\Debug\net6.0\03. Match-Dates.AssemblyInfoInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\02. Regular-Expressions\03. Match-Dates\obj\Debug\net6.0\03. Match-Dates.AssemblyInfo.cs
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\02. Regular-Expressions\03. Match-Dates\obj\Debug\net6.0\03. Match-Dates.csproj.CoreCompileInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\02. Regular-Expressions\03. Match-Dates\obj\Debug\net6.0\03. Match-Dates.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\02. Regular-Expressions\03. Match-Dates\obj\Debug\net6.0\refint\03. Match-Dates.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\02. Regular-Expressions\03. Match-Dates\obj\Debug\net6.0\03. Match-Dates.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\02. Regular-Expressions\03. Match-Dates\obj\Debug\net6.0\03. Match-Dates.genruntimeconfig.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\02. Regular-Expressions\03. Match-Dates\obj\Debug\net6.0\ref\03. Match-Dates.dll
