@@ -1,0 +1,14 @@
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\04. Dictionaries-Lambda-LINQ\03. Word-Synonyms\bin\Debug\net6.0\03. Word-Synonyms.exe
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\04. Dictionaries-Lambda-LINQ\03. Word-Synonyms\bin\Debug\net6.0\03. Word-Synonyms.deps.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\04. Dictionaries-Lambda-LINQ\03. Word-Synonyms\bin\Debug\net6.0\03. Word-Synonyms.runtimeconfig.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\04. Dictionaries-Lambda-LINQ\03. Word-Synonyms\bin\Debug\net6.0\03. Word-Synonyms.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\04. Dictionaries-Lambda-LINQ\03. Word-Synonyms\bin\Debug\net6.0\03. Word-Synonyms.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\04. Dictionaries-Lambda-LINQ\03. Word-Synonyms\obj\Debug\net6.0\03. Word-Synonyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\04. Dictionaries-Lambda-LINQ\03. Word-Synonyms\obj\Debug\net6.0\03. Word-Synonyms.AssemblyInfoInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\04. Dictionaries-Lambda-LINQ\03. Word-Synonyms\obj\Debug\net6.0\03. Word-Synonyms.AssemblyInfo.cs
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\04. Dictionaries-Lambda-LINQ\03. Word-Synonyms\obj\Debug\net6.0\03. Word-Synonyms.csproj.CoreCompileInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\04. Dictionaries-Lambda-LINQ\03. Word-Synonyms\obj\Debug\net6.0\03. Word-Synonyms.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\04. Dictionaries-Lambda-LINQ\03. Word-Synonyms\obj\Debug\net6.0\refint\03. Word-Synonyms.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\04. Dictionaries-Lambda-LINQ\03. Word-Synonyms\obj\Debug\net6.0\03. Word-Synonyms.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\04. Dictionaries-Lambda-LINQ\03. Word-Synonyms\obj\Debug\net6.0\03. Word-Synonyms.genruntimeconfig.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\04. Dictionaries-Lambda-LINQ\03. Word-Synonyms\obj\Debug\net6.0\ref\03. Word-Synonyms.dll

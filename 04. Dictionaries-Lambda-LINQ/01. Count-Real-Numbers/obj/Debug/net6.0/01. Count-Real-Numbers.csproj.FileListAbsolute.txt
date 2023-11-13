@@ -1,0 +1,14 @@
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\04. Dictionaries-Lambda-LINQ\01. Count-Real-Numbers\bin\Debug\net6.0\01. Count-Real-Numbers.exe
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\04. Dictionaries-Lambda-LINQ\01. Count-Real-Numbers\bin\Debug\net6.0\01. Count-Real-Numbers.deps.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\04. Dictionaries-Lambda-LINQ\01. Count-Real-Numbers\bin\Debug\net6.0\01. Count-Real-Numbers.runtimeconfig.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\04. Dictionaries-Lambda-LINQ\01. Count-Real-Numbers\bin\Debug\net6.0\01. Count-Real-Numbers.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\04. Dictionaries-Lambda-LINQ\01. Count-Real-Numbers\bin\Debug\net6.0\01. Count-Real-Numbers.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\04. Dictionaries-Lambda-LINQ\01. Count-Real-Numbers\obj\Debug\net6.0\01. Count-Real-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\04. Dictionaries-Lambda-LINQ\01. Count-Real-Numbers\obj\Debug\net6.0\01. Count-Real-Numbers.AssemblyInfoInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\04. Dictionaries-Lambda-LINQ\01. Count-Real-Numbers\obj\Debug\net6.0\01. Count-Real-Numbers.AssemblyInfo.cs
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\04. Dictionaries-Lambda-LINQ\01. Count-Real-Numbers\obj\Debug\net6.0\01. Count-Real-Numbers.csproj.CoreCompileInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\04. Dictionaries-Lambda-LINQ\01. Count-Real-Numbers\obj\Debug\net6.0\01. Count-Real-Numbers.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\04. Dictionaries-Lambda-LINQ\01. Count-Real-Numbers\obj\Debug\net6.0\refint\01. Count-Real-Numbers.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\04. Dictionaries-Lambda-LINQ\01. Count-Real-Numbers\obj\Debug\net6.0\01. Count-Real-Numbers.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\04. Dictionaries-Lambda-LINQ\01. Count-Real-Numbers\obj\Debug\net6.0\01. Count-Real-Numbers.genruntimeconfig.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\04. Dictionaries-Lambda-LINQ\01. Count-Real-Numbers\obj\Debug\net6.0\ref\01. Count-Real-Numbers.dll
