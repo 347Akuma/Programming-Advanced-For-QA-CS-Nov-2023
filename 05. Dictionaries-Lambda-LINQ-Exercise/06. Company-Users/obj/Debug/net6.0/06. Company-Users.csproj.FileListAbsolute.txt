@@ -1,0 +1,14 @@
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\05. Dictionaries-Lambda-LINQ-Exercise\06. Company-Users\bin\Debug\net6.0\06. Company-Users.exe
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\05. Dictionaries-Lambda-LINQ-Exercise\06. Company-Users\bin\Debug\net6.0\06. Company-Users.deps.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\05. Dictionaries-Lambda-LINQ-Exercise\06. Company-Users\bin\Debug\net6.0\06. Company-Users.runtimeconfig.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\05. Dictionaries-Lambda-LINQ-Exercise\06. Company-Users\bin\Debug\net6.0\06. Company-Users.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\05. Dictionaries-Lambda-LINQ-Exercise\06. Company-Users\bin\Debug\net6.0\06. Company-Users.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\05. Dictionaries-Lambda-LINQ-Exercise\06. Company-Users\obj\Debug\net6.0\06. Company-Users.GeneratedMSBuildEditorConfig.editorconfig
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\05. Dictionaries-Lambda-LINQ-Exercise\06. Company-Users\obj\Debug\net6.0\06. Company-Users.AssemblyInfoInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\05. Dictionaries-Lambda-LINQ-Exercise\06. Company-Users\obj\Debug\net6.0\06. Company-Users.AssemblyInfo.cs
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\05. Dictionaries-Lambda-LINQ-Exercise\06. Company-Users\obj\Debug\net6.0\06. Company-Users.csproj.CoreCompileInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\05. Dictionaries-Lambda-LINQ-Exercise\06. Company-Users\obj\Debug\net6.0\06. Company-Users.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\05. Dictionaries-Lambda-LINQ-Exercise\06. Company-Users\obj\Debug\net6.0\refint\06. Company-Users.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\05. Dictionaries-Lambda-LINQ-Exercise\06. Company-Users\obj\Debug\net6.0\06. Company-Users.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\05. Dictionaries-Lambda-LINQ-Exercise\06. Company-Users\obj\Debug\net6.0\06. Company-Users.genruntimeconfig.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\05. Dictionaries-Lambda-LINQ-Exercise\06. Company-Users\obj\Debug\net6.0\ref\06. Company-Users.dll

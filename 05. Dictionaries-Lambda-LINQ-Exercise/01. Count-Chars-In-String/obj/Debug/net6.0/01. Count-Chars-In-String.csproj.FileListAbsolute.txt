@@ -1,0 +1,14 @@
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\05. Dictionaries-Lambda-LINQ-Exercise\01. Count-Chars-In-String\bin\Debug\net6.0\01. Count-Chars-In-String.exe
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\05. Dictionaries-Lambda-LINQ-Exercise\01. Count-Chars-In-String\bin\Debug\net6.0\01. Count-Chars-In-String.deps.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\05. Dictionaries-Lambda-LINQ-Exercise\01. Count-Chars-In-String\bin\Debug\net6.0\01. Count-Chars-In-String.runtimeconfig.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\05. Dictionaries-Lambda-LINQ-Exercise\01. Count-Chars-In-String\bin\Debug\net6.0\01. Count-Chars-In-String.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\05. Dictionaries-Lambda-LINQ-Exercise\01. Count-Chars-In-String\bin\Debug\net6.0\01. Count-Chars-In-String.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\05. Dictionaries-Lambda-LINQ-Exercise\01. Count-Chars-In-String\obj\Debug\net6.0\01. Count-Chars-In-String.GeneratedMSBuildEditorConfig.editorconfig
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\05. Dictionaries-Lambda-LINQ-Exercise\01. Count-Chars-In-String\obj\Debug\net6.0\01. Count-Chars-In-String.AssemblyInfoInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\05. Dictionaries-Lambda-LINQ-Exercise\01. Count-Chars-In-String\obj\Debug\net6.0\01. Count-Chars-In-String.AssemblyInfo.cs
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\05. Dictionaries-Lambda-LINQ-Exercise\01. Count-Chars-In-String\obj\Debug\net6.0\01. Count-Chars-In-String.csproj.CoreCompileInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\05. Dictionaries-Lambda-LINQ-Exercise\01. Count-Chars-In-String\obj\Debug\net6.0\01. Count-Chars-In-String.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\05. Dictionaries-Lambda-LINQ-Exercise\01. Count-Chars-In-String\obj\Debug\net6.0\refint\01. Count-Chars-In-String.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\05. Dictionaries-Lambda-LINQ-Exercise\01. Count-Chars-In-String\obj\Debug\net6.0\01. Count-Chars-In-String.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\05. Dictionaries-Lambda-LINQ-Exercise\01. Count-Chars-In-String\obj\Debug\net6.0\01. Count-Chars-In-String.genruntimeconfig.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\05. Dictionaries-Lambda-LINQ-Exercise\01. Count-Chars-In-String\obj\Debug\net6.0\ref\01. Count-Chars-In-String.dll
