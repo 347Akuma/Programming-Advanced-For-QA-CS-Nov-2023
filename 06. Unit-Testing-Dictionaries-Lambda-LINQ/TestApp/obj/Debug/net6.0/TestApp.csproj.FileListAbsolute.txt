@@ -1,0 +1,11 @@
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\06. Unit-Testing-Dictionaries-Lambda-LINQ\TestApp\bin\Debug\net6.0\TestApp.deps.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\06. Unit-Testing-Dictionaries-Lambda-LINQ\TestApp\bin\Debug\net6.0\TestApp.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\06. Unit-Testing-Dictionaries-Lambda-LINQ\TestApp\bin\Debug\net6.0\TestApp.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\06. Unit-Testing-Dictionaries-Lambda-LINQ\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\06. Unit-Testing-Dictionaries-Lambda-LINQ\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\06. Unit-Testing-Dictionaries-Lambda-LINQ\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\06. Unit-Testing-Dictionaries-Lambda-LINQ\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\06. Unit-Testing-Dictionaries-Lambda-LINQ\TestApp\obj\Debug\net6.0\TestApp.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\06. Unit-Testing-Dictionaries-Lambda-LINQ\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\06. Unit-Testing-Dictionaries-Lambda-LINQ\TestApp\obj\Debug\net6.0\TestApp.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\06. Unit-Testing-Dictionaries-Lambda-LINQ\TestApp\obj\Debug\net6.0\ref\TestApp.dll
