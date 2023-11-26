@@ -1,0 +1,14 @@
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\04. Vehicle-Catalogue\bin\Debug\net6.0\04. Vehicle-Catalogue.exe
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\04. Vehicle-Catalogue\bin\Debug\net6.0\04. Vehicle-Catalogue.deps.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\04. Vehicle-Catalogue\bin\Debug\net6.0\04. Vehicle-Catalogue.runtimeconfig.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\04. Vehicle-Catalogue\bin\Debug\net6.0\04. Vehicle-Catalogue.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\04. Vehicle-Catalogue\bin\Debug\net6.0\04. Vehicle-Catalogue.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\04. Vehicle-Catalogue\obj\Debug\net6.0\04. Vehicle-Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\04. Vehicle-Catalogue\obj\Debug\net6.0\04. Vehicle-Catalogue.AssemblyInfoInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\04. Vehicle-Catalogue\obj\Debug\net6.0\04. Vehicle-Catalogue.AssemblyInfo.cs
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\04. Vehicle-Catalogue\obj\Debug\net6.0\04. Vehicle-Catalogue.csproj.CoreCompileInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\04. Vehicle-Catalogue\obj\Debug\net6.0\04. Vehicle-Catalogue.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\04. Vehicle-Catalogue\obj\Debug\net6.0\refint\04. Vehicle-Catalogue.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\04. Vehicle-Catalogue\obj\Debug\net6.0\04. Vehicle-Catalogue.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\04. Vehicle-Catalogue\obj\Debug\net6.0\04. Vehicle-Catalogue.genruntimeconfig.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\04. Vehicle-Catalogue\obj\Debug\net6.0\ref\04. Vehicle-Catalogue.dll

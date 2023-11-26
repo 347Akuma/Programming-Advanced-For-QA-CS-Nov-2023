@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Store-Boxes", "..\03. S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Vehicle-Catalogue", "..\04. Vehicle-Catalogue\04. Vehicle-Catalogue.csproj", "{605110F2-D57A-4320-9DC0-AF8BF93390C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Vehicle-Catalogue-2", "..\05. Vehicle-Catalogue-2\05. Vehicle-Catalogue-2.csproj", "{E083424D-253A-444C-B27B-E487E2AC2382}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{605110F2-D57A-4320-9DC0-AF8BF93390C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{605110F2-D57A-4320-9DC0-AF8BF93390C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{605110F2-D57A-4320-9DC0-AF8BF93390C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E083424D-253A-444C-B27B-E487E2AC2382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E083424D-253A-444C-B27B-E487E2AC2382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E083424D-253A-444C-B27B-E487E2AC2382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E083424D-253A-444C-B27B-E487E2AC2382}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

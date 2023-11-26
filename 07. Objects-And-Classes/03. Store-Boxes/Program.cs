@@ -27,8 +27,8 @@
             foreach (Box box in orderedBoxes)
             {
                 Console.WriteLine($"{box.SerialNumber}");
-                Console.WriteLine($"-- {box.Item.Name} - {box.Item.Price:f2}: {box.ItemQuantity}");
-                Console.WriteLine($"-- {box.PriceForABox:f2}");
+                Console.WriteLine($"-- {box.Item.Name} - ${box.Item.Price:f2}: {box.ItemQuantity}");
+                Console.WriteLine($"-- ${box.PriceForABox:f2}");
             }
         }
     }
