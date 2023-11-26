@@ -1,0 +1,14 @@
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\03. Store-Boxes\bin\Debug\net6.0\03. Store-Boxes.exe
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\03. Store-Boxes\bin\Debug\net6.0\03. Store-Boxes.deps.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\03. Store-Boxes\bin\Debug\net6.0\03. Store-Boxes.runtimeconfig.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\03. Store-Boxes\bin\Debug\net6.0\03. Store-Boxes.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\03. Store-Boxes\bin\Debug\net6.0\03. Store-Boxes.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\03. Store-Boxes\obj\Debug\net6.0\03. Store-Boxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\03. Store-Boxes\obj\Debug\net6.0\03. Store-Boxes.AssemblyInfoInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\03. Store-Boxes\obj\Debug\net6.0\03. Store-Boxes.AssemblyInfo.cs
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\03. Store-Boxes\obj\Debug\net6.0\03. Store-Boxes.csproj.CoreCompileInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\03. Store-Boxes\obj\Debug\net6.0\03. Store-Boxes.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\03. Store-Boxes\obj\Debug\net6.0\refint\03. Store-Boxes.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\03. Store-Boxes\obj\Debug\net6.0\03. Store-Boxes.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\03. Store-Boxes\obj\Debug\net6.0\03. Store-Boxes.genruntimeconfig.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\03. Store-Boxes\obj\Debug\net6.0\ref\03. Store-Boxes.dll

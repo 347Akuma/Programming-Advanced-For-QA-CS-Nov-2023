@@ -1,0 +1,14 @@
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\02. Students\bin\Debug\net6.0\02. Students.exe
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\02. Students\bin\Debug\net6.0\02. Students.deps.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\02. Students\bin\Debug\net6.0\02. Students.runtimeconfig.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\02. Students\bin\Debug\net6.0\02. Students.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\02. Students\bin\Debug\net6.0\02. Students.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\02. Students\obj\Debug\net6.0\02. Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\02. Students\obj\Debug\net6.0\02. Students.AssemblyInfoInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\02. Students\obj\Debug\net6.0\02. Students.AssemblyInfo.cs
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\02. Students\obj\Debug\net6.0\02. Students.csproj.CoreCompileInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\02. Students\obj\Debug\net6.0\02. Students.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\02. Students\obj\Debug\net6.0\refint\02. Students.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\02. Students\obj\Debug\net6.0\02. Students.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\02. Students\obj\Debug\net6.0\02. Students.genruntimeconfig.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\07. Objects-And-Classes\02. Students\obj\Debug\net6.0\ref\02. Students.dll
