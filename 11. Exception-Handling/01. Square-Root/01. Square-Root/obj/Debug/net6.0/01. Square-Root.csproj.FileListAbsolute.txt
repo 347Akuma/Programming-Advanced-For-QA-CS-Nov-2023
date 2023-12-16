@@ -1,0 +1,14 @@
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\11. Exception-Handling\01. Square-Root\01. Square-Root\bin\Debug\net6.0\01. Square-Root.exe
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\11. Exception-Handling\01. Square-Root\01. Square-Root\bin\Debug\net6.0\01. Square-Root.deps.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\11. Exception-Handling\01. Square-Root\01. Square-Root\bin\Debug\net6.0\01. Square-Root.runtimeconfig.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\11. Exception-Handling\01. Square-Root\01. Square-Root\bin\Debug\net6.0\01. Square-Root.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\11. Exception-Handling\01. Square-Root\01. Square-Root\bin\Debug\net6.0\01. Square-Root.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\11. Exception-Handling\01. Square-Root\01. Square-Root\obj\Debug\net6.0\01. Square-Root.GeneratedMSBuildEditorConfig.editorconfig
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\11. Exception-Handling\01. Square-Root\01. Square-Root\obj\Debug\net6.0\01. Square-Root.AssemblyInfoInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\11. Exception-Handling\01. Square-Root\01. Square-Root\obj\Debug\net6.0\01. Square-Root.AssemblyInfo.cs
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\11. Exception-Handling\01. Square-Root\01. Square-Root\obj\Debug\net6.0\01. Square-Root.csproj.CoreCompileInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\11. Exception-Handling\01. Square-Root\01. Square-Root\obj\Debug\net6.0\01. Square-Root.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\11. Exception-Handling\01. Square-Root\01. Square-Root\obj\Debug\net6.0\refint\01. Square-Root.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\11. Exception-Handling\01. Square-Root\01. Square-Root\obj\Debug\net6.0\01. Square-Root.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\11. Exception-Handling\01. Square-Root\01. Square-Root\obj\Debug\net6.0\01. Square-Root.genruntimeconfig.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\11. Exception-Handling\01. Square-Root\01. Square-Root\obj\Debug\net6.0\ref\01. Square-Root.dll
