@@ -1,0 +1,14 @@
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Animals\bin\Debug\net6.0\Animals.exe
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Animals\bin\Debug\net6.0\Animals.deps.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Animals\bin\Debug\net6.0\Animals.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Animals\bin\Debug\net6.0\Animals.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Animals\obj\Debug\net6.0\Animals.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Animals\obj\Debug\net6.0\refint\Animals.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Animals\obj\Debug\net6.0\Animals.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Animals\obj\Debug\net6.0\ref\Animals.dll
