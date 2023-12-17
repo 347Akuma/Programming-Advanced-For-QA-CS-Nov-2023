@@ -1,0 +1,14 @@
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Shapes\bin\Debug\net6.0\Shapes.exe
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Shapes\bin\Debug\net6.0\Shapes.deps.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Shapes\bin\Debug\net6.0\Shapes.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Shapes\bin\Debug\net6.0\Shapes.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Shapes\obj\Debug\net6.0\Shapes.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Shapes\obj\Debug\net6.0\refint\Shapes.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Shapes\obj\Debug\net6.0\Shapes.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Shapes\obj\Debug\net6.0\ref\Shapes.dll

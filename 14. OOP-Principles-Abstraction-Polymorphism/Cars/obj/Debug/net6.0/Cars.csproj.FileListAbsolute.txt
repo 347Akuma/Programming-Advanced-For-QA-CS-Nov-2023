@@ -1,0 +1,14 @@
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Cars\obj\Debug\net6.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Cars\obj\Debug\net6.0\Cars.AssemblyInfoInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Cars\obj\Debug\net6.0\Cars.AssemblyInfo.cs
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Cars\obj\Debug\net6.0\Cars.csproj.CoreCompileInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Cars\bin\Debug\net6.0\Cars.exe
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Cars\bin\Debug\net6.0\Cars.deps.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Cars\bin\Debug\net6.0\Cars.runtimeconfig.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Cars\bin\Debug\net6.0\Cars.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Cars\bin\Debug\net6.0\Cars.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Cars\obj\Debug\net6.0\Cars.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Cars\obj\Debug\net6.0\refint\Cars.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Cars\obj\Debug\net6.0\Cars.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Cars\obj\Debug\net6.0\Cars.genruntimeconfig.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\14. OOP-Principles-Abstraction-Polymorphism\Cars\obj\Debug\net6.0\ref\Cars.dll
