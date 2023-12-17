@@ -1,0 +1,14 @@
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\13. OOP-Principles-Encapsulation-Inheritance\BoxData\bin\Debug\net6.0\BoxData.exe
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\13. OOP-Principles-Encapsulation-Inheritance\BoxData\bin\Debug\net6.0\BoxData.deps.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\13. OOP-Principles-Encapsulation-Inheritance\BoxData\bin\Debug\net6.0\BoxData.runtimeconfig.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\13. OOP-Principles-Encapsulation-Inheritance\BoxData\bin\Debug\net6.0\BoxData.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\13. OOP-Principles-Encapsulation-Inheritance\BoxData\bin\Debug\net6.0\BoxData.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\13. OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.GeneratedMSBuildEditorConfig.editorconfig
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\13. OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.AssemblyInfoInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\13. OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.AssemblyInfo.cs
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\13. OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.csproj.CoreCompileInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\13. OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\13. OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\refint\BoxData.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\13. OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\13. OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.genruntimeconfig.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\13. OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\ref\BoxData.dll

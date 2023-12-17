@@ -1,0 +1,14 @@
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\13. OOP-Principles-Encapsulation-Inheritance\PersonInfo\bin\Debug\net6.0\PersonInfo.exe
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\13. OOP-Principles-Encapsulation-Inheritance\PersonInfo\bin\Debug\net6.0\PersonInfo.deps.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\13. OOP-Principles-Encapsulation-Inheritance\PersonInfo\bin\Debug\net6.0\PersonInfo.runtimeconfig.json
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\13. OOP-Principles-Encapsulation-Inheritance\PersonInfo\bin\Debug\net6.0\PersonInfo.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\13. OOP-Principles-Encapsulation-Inheritance\PersonInfo\bin\Debug\net6.0\PersonInfo.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\13. OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\13. OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfoInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\13. OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfo.cs
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\13. OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.csproj.CoreCompileInputs.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\13. OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\13. OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\refint\PersonInfo.dll
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\13. OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.pdb
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\13. OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.genruntimeconfig.cache
+C:\The-Code-Folder\2. Programming-For-QA-Advanced\13. OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\ref\PersonInfo.dll
